@@ -1,0 +1,15 @@
+{
+  "api_domains": [
+    "edublogapi.com",
+    "api.triworldgaming.com"
+  ],
+  "version_url": [
+    "https://cdn.knowledgewikiapi.com/gh/bugvpn1/minsupver@main/onsuvpn_version.json"
+  ],
+  "log_upload_url": [
+    "https://logs.appcli.org"
+  ],
+  "payment_return_url": [
+    "https://triworldonline.com"
+  ]
+}
