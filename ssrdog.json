@@ -1,9 +1,11 @@
 {
   "api_domains": [
+    "api.eduweekend.com",
     "edublogapi.com",
     "api.triworldgaming.com"
   ],
   "version_url": [
+    "https://cdn.knowledgeblogapi.com/gh/bugvpn1/minsupver@main/onsuvpn_version.json",
     "https://cdn.knowledgewikiapi.com/gh/bugvpn1/minsupver@main/onsuvpn_version.json"
   ],
   "log_upload_url": [
