@@ -13,5 +13,9 @@
   ],
   "payment_return_url": [
     "https://triworldonline.com"
+  ],
+  "subscription_plan_url": [
+    "https://cdn.knowledgeblogapi.com/gh/bugvpn1/subplanparse@main/clash.json",
+    "https://cdn.knowledgewikiapi.com/gh/bugvpn1/subplanparse@main/clash.json"
   ]
 }
