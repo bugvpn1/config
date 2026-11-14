@@ -1,8 +1,6 @@
 {
   "api_domains": [
-    "api.eduweekend.com",
-    "edublogapi.com",
-    "api.triworldgaming.com"
+    "api2.onsucloud.com"
   ],
   "version_url": [
     "https://cdn.knowledgeblogapi.com/gh/bugvpn1/minsupver@main/config.json",
