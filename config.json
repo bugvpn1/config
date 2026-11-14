@@ -1,6 +1,7 @@
 {
   "api_domains": [
-    "api2.onsucloud.com:30206"
+    "api2.onsucloud.com:30206",
+    "api.onsucloud.com"
   ],
   "version_url": [
     "https://cdn.knowledgeblogapi.com/gh/bugvpn1/minsupver@main/config.json",
