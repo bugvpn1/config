@@ -1,0 +1,20 @@
+{
+  "api_domains": [
+    "api2.onsucloud.com:30206",
+    "api.onsucloud.com"
+  ],
+  "version_url": [
+    "https://cdn.knowledgeblogapi.com/gh/bugvpn1/minsupver@main/config.json",
+    "https://cdn.knowledgewikiapi.com/gh/bugvpn1/minsupver@main/config.json"
+  ],
+  "log_upload_url": [
+    "https://logs.appcli.org"
+  ],
+  "payment_return_url": [
+    "https://triworldonline.com"
+  ],
+  "subscription_plan_url": [
+    "https://cdn.knowledgeblogapi.com/gh/bugvpn1/subplanparse@main/config.json",
+    "https://cdn.knowledgewikiapi.com/gh/bugvpn1/subplanparse@main/config.json"
+  ]
+}
